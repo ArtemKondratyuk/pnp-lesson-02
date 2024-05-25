@@ -26,7 +26,7 @@ $bool = false;
 echo $str . ': ' . $number . '. Var 2: ' . $num;
 
 $a = 0.7;
-$b = '0.7';
+$b = 0.7;
 
 echo $a + floatval($b);
 
